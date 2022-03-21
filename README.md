@@ -1,8 +1,6 @@
 # ProyectoBootstrap
 
-[Proyecto para el Segundo Trimestre.](https://github.com/usaurioRAWR/neoRAWRvim)
-
-Esta pagina a sido desarrollada con código abierto y mis conocimientos adquiridos en el modulo Lenguajes de marcas y sistemas de gestión de información. 
+Mi proyecto para el Segundo Trimestre esta alojado en;
 
 [neoRAWRvim](https://github.com/usaurioRAWR/neoRAWRvim)
 
